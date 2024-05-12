@@ -1,5 +1,5 @@
 # Netflix Data Analysis using Power-BI
-Analyzed Netflix Data using Power BI.
+**Analyzed Netflix Data using Power BI.**
 <br/>
 
 
@@ -13,7 +13,7 @@ Analyzed Netflix Data using Power BI.
 ## Process
 #### 1. **Data Loading and Cleaning**
 #### 2. **Data Transformation with DAX Queries**
-#### 3. **Dashboard Creation using unique Charts, tables, and maps. **
+#### 3. **Dashboard Creation using unique Charts, tables, and maps.**
 #### 4. **Analysing the Dataset and finding the key results**
 
 
